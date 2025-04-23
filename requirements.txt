@@ -1,0 +1,6 @@
+streamlit
+crewai
+crewai_tools
+groq
+python-dateutil
+pysqlite3-binary
